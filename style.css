@@ -1,0 +1,23 @@
+body{
+    justify-content: center;
+    display: flex;
+}
+
+
+table{
+    border:1px solid black;
+    text-align: center;
+}
+
+.box1{
+    background-color: white;
+}
+
+.box2{
+    background-color: lightskyblue;
+}
+th,td{
+    width:80px;
+    height: 80px;
+    font-size: 50px;
+}
